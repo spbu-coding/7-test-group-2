@@ -4,3 +4,6 @@
 [submodule "7-AShlegel"]
 	path = 7-AShlegel
 	url = https://github.com/spbu-coding/7-AShlegel.git
+[submodule "7-PyRayman"]
+	path = 7-PyRayman
+	url = https://github.com/spbu-coding/7-PyRayman.git
