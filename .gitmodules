@@ -10,3 +10,6 @@
 [submodule "7-Ramazanov-Amir"]
 	path = 7-Ramazanov-Amir
 	url = https://github.com/spbu-coding/7-Ramazanov-Amir.git
+[submodule "7-smmac72"]
+	path = 7-smmac72
+	url = https://github.com/spbu-coding/7-smmac72.git
