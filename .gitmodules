@@ -13,3 +13,6 @@
 [submodule "7-smmac72"]
 	path = 7-smmac72
 	url = https://github.com/spbu-coding/7-smmac72.git
+[submodule "7-TimPushkin"]
+	path = 7-TimPushkin
+	url = https://github.com/spbu-coding/7-TimPushkin.git
