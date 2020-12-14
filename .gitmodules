@@ -37,3 +37,6 @@
 [submodule "7-Mishavint"]
 	path = 7-Mishavint
 	url = https://github.com/spbu-coding/7-Mishavint.git
+[submodule "7-ShishaK1N9"]
+	path = 7-ShishaK1N9
+	url = https://github.com/spbu-coding/7-ShishaK1N9.git
