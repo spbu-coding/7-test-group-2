@@ -22,3 +22,6 @@
 [submodule "7-AzimMuradov"]
 	path = 7-AzimMuradov
 	url = https://github.com/spbu-coding/7-AzimMuradov.git
+[submodule "7-danielsheh02"]
+	path = 7-danielsheh02
+	url = https://github.com/spbu-coding/7-danielsheh02.git
