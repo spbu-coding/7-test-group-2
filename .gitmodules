@@ -16,3 +16,6 @@
 [submodule "7-TimPushkin"]
 	path = 7-TimPushkin
 	url = https://github.com/spbu-coding/7-TimPushkin.git
+[submodule "7-artmotika"]
+	path = 7-artmotika
+	url = https://github.com/spbu-coding/7-artmotika.git
