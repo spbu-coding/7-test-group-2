@@ -28,3 +28,6 @@
 [submodule "7-esvault"]
 	path = 7-esvault
 	url = https://github.com/spbu-coding/7-esvault.git
+[submodule "7-IAmFunkyFrog"]
+	path = 7-IAmFunkyFrog
+	url = https://github.com/spbu-coding/7-IAmFunkyFrog.git
