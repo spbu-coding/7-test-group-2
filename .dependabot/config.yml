@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "7-zishkaz"
+      - match:
           dependency_name: "7-SofuriHafe"
       - match:
           dependency_name: "7-ShishaK1N9"

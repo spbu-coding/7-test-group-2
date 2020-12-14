@@ -43,3 +43,6 @@
 [submodule "7-SofuriHafe"]
 	path = 7-SofuriHafe
 	url = https://github.com/spbu-coding/7-SofuriHafe.git
+[submodule "7-zishkaz"]
+	path = 7-zishkaz
+	url = https://github.com/spbu-coding/7-zishkaz.git
