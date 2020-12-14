@@ -40,3 +40,6 @@
 [submodule "7-ShishaK1N9"]
 	path = 7-ShishaK1N9
 	url = https://github.com/spbu-coding/7-ShishaK1N9.git
+[submodule "7-SofuriHafe"]
+	path = 7-SofuriHafe
+	url = https://github.com/spbu-coding/7-SofuriHafe.git
