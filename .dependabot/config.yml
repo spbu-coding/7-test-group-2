@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "7-Mishavint"
+      - match:
           dependency_name: "7-kettlberry"
       - match:
           dependency_name: "7-IAmFunkyFrog"

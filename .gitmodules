@@ -34,3 +34,6 @@
 [submodule "7-kettlberry"]
 	path = 7-kettlberry
 	url = https://github.com/spbu-coding/7-kettlberry.git
+[submodule "7-Mishavint"]
+	path = 7-Mishavint
+	url = https://github.com/spbu-coding/7-Mishavint.git
