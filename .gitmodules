@@ -19,3 +19,6 @@
 [submodule "7-artmotika"]
 	path = 7-artmotika
 	url = https://github.com/spbu-coding/7-artmotika.git
+[submodule "7-AzimMuradov"]
+	path = 7-AzimMuradov
+	url = https://github.com/spbu-coding/7-AzimMuradov.git
