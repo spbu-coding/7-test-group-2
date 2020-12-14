@@ -31,3 +31,6 @@
 [submodule "7-IAmFunkyFrog"]
 	path = 7-IAmFunkyFrog
 	url = https://github.com/spbu-coding/7-IAmFunkyFrog.git
+[submodule "7-kettlberry"]
+	path = 7-kettlberry
+	url = https://github.com/spbu-coding/7-kettlberry.git
