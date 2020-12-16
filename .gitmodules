@@ -46,3 +46,6 @@
 [submodule "7-zishkaz"]
 	path = 7-zishkaz
 	url = https://github.com/spbu-coding/7-zishkaz.git
+[submodule "7-rudolf101"]
+	path = 7-rudolf101
+	url = https://github.com/spbu-coding/7-rudolf101.git
