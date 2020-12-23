@@ -76,3 +76,6 @@
 [submodule "7-pervomai"]
 	path = 7-pervomai
 	url = https://github.com/spbu-coding/7-pervomai.git
+[submodule "7-qsqnk"]
+	path = 7-qsqnk
+	url = https://github.com/spbu-coding/7-qsqnk.git
