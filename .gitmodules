@@ -67,3 +67,6 @@
 [submodule "7-IlyaMuravjov"]
 	path = 7-IlyaMuravjov
 	url = https://github.com/spbu-coding/7-IlyaMuravjov.git
+[submodule "7-MeviusS"]
+	path = 7-MeviusS
+	url = https://github.com/spbu-coding/7-MeviusS.git
