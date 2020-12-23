@@ -55,3 +55,6 @@
 [submodule "7-AbdurazikovManuchehr"]
 	path = 7-AbdurazikovManuchehr
 	url = https://github.com/spbu-coding/7-AbdurazikovManuchehr.git
+[submodule "7-AndreyBryns"]
+	path = 7-AndreyBryns
+	url = https://github.com/spbu-coding/7-AndreyBryns.git
