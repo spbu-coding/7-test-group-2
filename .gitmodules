@@ -64,3 +64,6 @@
 [submodule "7-foreverjun"]
 	path = 7-foreverjun
 	url = https://github.com/spbu-coding/7-foreverjun.git
+[submodule "7-IlyaMuravjov"]
+	path = 7-IlyaMuravjov
+	url = https://github.com/spbu-coding/7-IlyaMuravjov.git
