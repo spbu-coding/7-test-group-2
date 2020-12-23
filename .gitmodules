@@ -82,3 +82,6 @@
 [submodule "7-SlavaLatokhin"]
 	path = 7-SlavaLatokhin
 	url = https://github.com/spbu-coding/7-SlavaLatokhin.git
+[submodule "7-ToTTopBYxe"]
+	path = 7-ToTTopBYxe
+	url = https://github.com/spbu-coding/7-ToTTopBYxe.git
