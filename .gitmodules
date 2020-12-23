@@ -58,3 +58,6 @@
 [submodule "7-AndreyBryns"]
 	path = 7-AndreyBryns
 	url = https://github.com/spbu-coding/7-AndreyBryns.git
+[submodule "7-fertmanasa"]
+	path = 7-fertmanasa
+	url = https://github.com/spbu-coding/7-fertmanasa.git
