@@ -79,3 +79,6 @@
 [submodule "7-qsqnk"]
 	path = 7-qsqnk
 	url = https://github.com/spbu-coding/7-qsqnk.git
+[submodule "7-SlavaLatokhin"]
+	path = 7-SlavaLatokhin
+	url = https://github.com/spbu-coding/7-SlavaLatokhin.git
