@@ -52,3 +52,6 @@
 [submodule "7-Tizain"]
 	path = 7-Tizain
 	url = https://github.com/spbu-coding/7-Tizain.git
+[submodule "7-AbdurazikovManuchehr"]
+	path = 7-AbdurazikovManuchehr
+	url = https://github.com/spbu-coding/7-AbdurazikovManuchehr.git
