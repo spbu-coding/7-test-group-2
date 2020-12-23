@@ -73,3 +73,6 @@
 [submodule "7-michael555444"]
 	path = 7-michael555444
 	url = https://github.com/spbu-coding/7-michael555444.git
+[submodule "7-pervomai"]
+	path = 7-pervomai
+	url = https://github.com/spbu-coding/7-pervomai.git
