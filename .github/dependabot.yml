@@ -1,0 +1,42 @@
+version: 2
+updates:
+- package-ecosystem: gitsubmodule
+  directory: "/."
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 50
+  allow:
+  - dependency-name: 7-AlexanderRunov
+  - dependency-name: 7-ViktorKarasss
+  - dependency-name: 7-ToTTopBYxe
+  - dependency-name: 7-SlavaLatokhin
+  - dependency-name: 7-qsqnk
+  - dependency-name: 7-pervomai
+  - dependency-name: 7-michael555444
+  - dependency-name: 7-MeviusS
+  - dependency-name: 7-IlyaMuravjov
+  - dependency-name: 7-foreverjun
+  - dependency-name: 7-fertmanasa
+  - dependency-name: 7-AndreyBryns
+  - dependency-name: 7-AbdurazikovManuchehr
+  - dependency-name: 7-Tizain
+  - dependency-name: 7-rudolf101
+  - dependency-name: 7-zishkaz
+  - dependency-name: 7-SofuriHafe
+  - dependency-name: 7-ShishaK1N9
+  - dependency-name: 7-Mishavint
+  - dependency-name: 7-kettlberry
+  - dependency-name: 7-IAmFunkyFrog
+  - dependency-name: 7-esvault
+  - dependency-name: 7-danielsheh02
+  - dependency-name: 7-AzimMuradov
+  - dependency-name: 7-artmotika
+  - dependency-name: 7-TimPushkin
+  - dependency-name: 7-smmac72
+  - dependency-name: 7-Ramazanov-Amir
+  - dependency-name: 7-PyRayman
+  - dependency-name: 7-AShlegel
+  ignore:
+  - dependency-name: 7-sorter-utility
+    versions:
+    - ">= 0"
